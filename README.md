@@ -1,4 +1,4 @@
-# My days and not
+My days and not
 
 Analysis of vulnerabilities from **Security Audit** || **Bug Bounty** || **Security advisories** || **CTF**.
 
@@ -13,7 +13,7 @@ Analysis of vulnerabilities from **Security Audit** || **Bug Bounty** || **Secur
 | CVE-2022-3860  | Web Application  | SQL Injection(SQLi)     | [Link 2 PoC](https://wpscan.com/vulnerability/d99ce21f-fbb6-429c-aa3b-19c4a5eb7557)
 | CVE-2023-4724  | Web Application  | SQL Injection(SQLi)     | [Link 2 PoC](https://www.unlock-security.it/it/security-advisory/cve-2023-4724-cve-2023-5882-wp-all-export/)
 | CVE-2023-5882  | Web Application  | Remote Code Execution(RCE)     | [Link 2 PoC](https://wpscan.com/vulnerability/72be4b5c-21be-46af-a3f4-08b4c190a7e2/)
-| CVE-2024-XXXX  | Mobile - Android | Open arbitrary URLs     | [Link 2 HoF](https://www.oracle.com/security-alerts/cpujan2025.html)
+| Oracle On-Line Presence Security  | Mobile - Android | Open arbitrary URLs     | [Link 2 HoF](https://www.oracle.com/security-alerts/cpujan2025.html)
 | CVE-2024-23710 | Mobile - Android | EoP (Elevation of Privilege) | WiP
 
 ## CTF Writeups
