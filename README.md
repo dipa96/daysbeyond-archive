@@ -1,5 +1,3 @@
-My days and not
-
 Analysis of vulnerabilities from **Security Audit** || **Bug Bounty** || **Security advisories** || **CTF**.
 
 ## CVE Analysis list
